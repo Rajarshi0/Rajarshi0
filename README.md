@@ -1,11 +1,11 @@
 
 # :stars: **RAJARSHI MONDAL** :stars:
-   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Rajarshi0)
+   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=)
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Welcome, This is Rajarshi Mondal.
 - 🌱 About: Hackbio Internship is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and      computational biology skills.
 
 - 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragnapcu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/)
 --->
 
 
