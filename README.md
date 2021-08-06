@@ -1,9 +1,9 @@
 
 # :stars: **RAJARSHI MONDAL** :stars:
-   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pragnapcu.HackBio2021-TeamMulis)
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Welcome, This is Team Mulis for Hackbio 2021 virtual internship.
+   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Rajarshi0)
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Welcome, This is Rajarshi Mondal.
 - 🌱 About: Hackbio Internship is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and      computational biology skills.
-- :desktop_computer: Hackbio official website: https://thehackbio.com/
+
 - 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragnapcu&layout=compact)
 --->
