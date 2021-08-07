@@ -4,7 +4,16 @@
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Welcome, This is Rajarshi Mondal.
 - 🌱 About: Hackbio Internship is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and      computational biology skills.
 
-- 
+<p align="center">
+    <br>
+   <br>
+    <br>
+    <img align="center" alt="gif" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320">
+    <br>
+    <br>
+    <br>
+    <br>
+</p>
 
 
 ## Getting Started :scroll:
