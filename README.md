@@ -19,10 +19,10 @@
 ## Getting Started :scroll:
 
 - 👋 Hi, I’m @Rajarshi0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in bioinformatics
+- 🌱 I’m currently pursuing masters in bioinformatics
+- 💞️ I’m looking to collaborate on any NGS or similar analysis
+- 📫 How to reach me? email: rajarshimondal92@gmail.com
 
 <!---
 Rajarshi0/Rajarshi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
