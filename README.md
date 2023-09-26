@@ -2,7 +2,7 @@
 # :stars: **RAJARSHI MONDAL** :stars:
    ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Rajarshi0/Rajarshi0.git)
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> A heart welcome to my profile. Hi; I am Rajarshi Mondal. Nice to see you here
-- 🌱 I have completed a master's in bioinformatics. 
+- 🌱 
 <p align="center">
     <br>
    <br>
@@ -19,7 +19,7 @@
 
 - 👋 Hi, I’m @Rajarshi0
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently pursuing masters in bioinformatics
+- 🌱 I have completed a master's in bioinformatics. 
 - 💞️ I’m looking to collaborate on any NGS or similar analysis
 - 📫 How to reach me? email: rajarshimondal92@gmail.com
 
