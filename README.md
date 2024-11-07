@@ -1,7 +1,7 @@
 
 # :stars: **RAJARSHI MONDAL** :stars:
    ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Rajarshi0/Rajarshi0.git)
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> A heart welcome to my profile. Hi; I am Rajarshi Mondal. Nice to see you here
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> A hearty welcome to my profile. Hi; I am Rajarshi Mondal. Nice to see you here
 - 🌱 
 <p align="center">
     <br>
